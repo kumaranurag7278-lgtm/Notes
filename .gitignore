@@ -1,12 +1,6 @@
-# IntelliJ
 .idea/
-*.iml
-
-# Java compiled files
-*.class
-
-# Compiled output
-out/
-
-# VS Code
 .vscode/
+.ipynb_checkpoints/
+out/
+*.iml
+*.class
