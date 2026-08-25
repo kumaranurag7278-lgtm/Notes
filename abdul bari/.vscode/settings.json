@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "basic java",
-        "data types"
-    ],
-    "java.project.referencedLibraries": [],
-    "java.debug.settings.onBuildFailureProceed": true
-}

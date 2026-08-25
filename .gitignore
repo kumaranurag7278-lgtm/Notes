@@ -1,6 +1,6 @@
 .idea/
 .vscode/
-.ipynb_checkpoints/
 out/
+.ipynb_checkpoints/
 *.iml
 *.class
